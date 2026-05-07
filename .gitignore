@@ -1,0 +1,24 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Datos grandes
+01_datos/raw/
+01_datos/raw/**
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
+# Archivos grandes
+*.csv
+*.txt
+*.zip
+*.parquet
+*.pkl
