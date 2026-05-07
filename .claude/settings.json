@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import joblib; a=joblib.load\\('/Users/paolavelandia/01_a_T_E_S_I_S/01_tesis_v4/artefactos_modelo_hibrido.pkl'\\); print\\(list\\(a.keys\\(\\)\\)\\)\")"
+    ],
+    "additionalDirectories": [
+      "/Users/paolavelandia/01_a_T_E_S_I_S/01_tesis_v4"
+    ]
+  }
+}
