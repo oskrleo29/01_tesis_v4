@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 """
+=======
+﻿"""
+>>>>>>> 8d00cf621d9cf7468b3d289a111d5837cb1310ec
 script_correlaciones_y_boxplots.py
 
 Complementa el análisis descriptivo de la Sección 5 con dos componentes que
@@ -103,7 +107,11 @@ TARGET = 'log_gastos_2025'
 FEX = 'FEX_C'
 
 VARIABLES_NUMERICAS = [
+<<<<<<< HEAD
     'log_ingresos_2025', 'log_gastos_2025', 'Edad', 'Aportantes_Hogar',
+=======
+    'log_ingresos_2025', 'log_gastos_2025', 'Edad', 'PersonasHogar',
+>>>>>>> 8d00cf621d9cf7468b3d289a111d5837cb1310ec
     'log_ratio_ingreso',
 ]
 
